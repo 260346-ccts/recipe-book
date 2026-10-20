@@ -15,4 +15,5 @@ Instructions
 2. Melt Butter: Place a skillet over medium-low heat and melt the butter.
 3. Add Garlic & Cream: Stir in the minced garlic and cook for about 1 minute until fragrant. Pour in the heavy cream and bring to a gentle simmer.
 4. Whisk in Cheese: Reduce the heat to low and slowly whisk in the freshly grated Parmesan cheese until melted and smooth.
-5. Combine: Toss the cooked fettuccine directly into the sauce. Add a splash of the reserved pasta water if the sauce is too thick.
+5. Combine: Toss the cooked fettuccine directly into the sauce. 
+6. Add a splash of the reserved pasta water if the sauce is too thick.
